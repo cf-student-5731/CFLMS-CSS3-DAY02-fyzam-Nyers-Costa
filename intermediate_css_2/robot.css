@@ -1,0 +1,116 @@
+img {
+	width: 50px;
+}
+#face {
+	position: fixed;
+	width: 400px;
+	top: 130px;
+
+}
+#hair1 {
+	position: fixed;
+	left: 40px;
+	top: 100px;
+	width: 340px;
+}
+#mouth2 {
+	position: fixed;
+	left: 170px;
+	top: 495px;
+	width: 60px;
+	filter: grayscale(60%);
+}
+#hair2 {
+	position: fixed;
+	left: 150px;
+	top: 360px;
+	width: 100px;
+	height: 300px;
+	filter: grayscale(60%);
+	opacity: 100%;
+}
+#eyes1 {
+	position: fixed;
+	left: 160px;
+	top: 340px;
+	width: 80px;
+}
+#nose1 {
+	position: fixed;
+	left: 150px;
+	top: 300px;
+	width: 40px;
+	transform: rotate(100deg);
+}
+#nose2 {
+	position: fixed;
+	left: 210px;
+	top: 300px;
+	width: 40px;
+	-webkit-transform: scaleX(-1) rotate(100deg);
+}
+#hat {
+	position: fixed;
+	left: 23px;
+	top: 150px;
+	width: 140px;
+	-webkit-transform: scaleX(-1) rotate(37deg);
+}
+#ears2 {
+	position: fixed;
+	left: 0px;
+	top: 190px;
+	width: 220px;
+	-webkit-transform: scaleX(-1) rotate(37deg);
+}
+#ears3 {
+	position: fixed;
+	left: 0px;
+	top: 190px;
+	width: 220px;
+	-webkit-transform: scaleX(-1) rotate(57deg);
+}
+#ears4 {
+	position: fixed;
+	left: 0px;
+	top: 190px;
+	width: 220px;
+	-webkit-transform: scaleX(-1) rotate(77deg);
+}
+#ears5 {
+	position: fixed;
+	left: 0px;
+	top: 190px;
+	width: 220px;
+	-webkit-transform: scaleX(-1) rotate(97deg);
+}
+#ears6 {
+	position: fixed;
+	left: 0px;
+	top: 190px;
+	width: 220px;
+	-webkit-transform: scaleX(-1) rotate(168deg);
+}
+#ears7 {
+	position: fixed;
+	left: 0px;
+	top: 190px;
+	width: 220px;
+	-webkit-transform: scaleX(-1) rotate(192deg);
+}
+#nose3 {
+	position: fixed;
+	left: 0px;
+	top: 100px;
+	width: 100px;
+	transform: rotate(140deg);
+}
+#eyes2 {
+	display: none;
+}
+#ears1 {
+	display: none;
+}
+#mouth1 {
+	display: none;
+}
