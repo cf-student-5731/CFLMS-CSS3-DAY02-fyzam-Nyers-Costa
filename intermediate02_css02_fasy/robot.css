@@ -2,6 +2,48 @@ img {
   width: 50px;
 }
 #face {
-  width: 400px;
+	position: relative;
+	width: 400px;
+	top: 0;
+	left: 0;
 }
-
+#eyes1{
+	position: relative;
+	top: -250px;
+	left: -300px;
+	width: 190px;
+}
+#mouth1{
+	position: relative;
+	top: -90px;
+	left: -660px;
+	width: 170px;
+}
+#hair2{
+	position: relative;
+	top: -60px;
+	left: -485px;
+	width: 170px;
+}
+#nose2{
+	position: relative;
+	top: -180px;
+	left: -790px;
+	width: 90px;
+}
+#ears2{
+	position: relative;
+	top: -400px;
+	left: -29px;
+	width: 450px;
+}
+#hat{
+	position: relative;
+	top: -530px;
+	left: -378px;
+	width: 260px;
+}
+.container{
+	margin-left: 150px;
+	margin-top: 150px;
+}
