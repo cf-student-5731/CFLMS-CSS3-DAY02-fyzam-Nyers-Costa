@@ -1,21 +1,14 @@
-<!DOCTYPE html>
-<html lang='en'>
-<head>
-<meta charset='utf-8'>
-<link rel='stylesheet' type='text/css' href='styles.css'>
-<title>CSS3 Advanced Exercise 1</title>
-</head>
-<body>
-	<div id="container">
-	<nav>
-		<ul>
-			<a href="index.html" title="Home">Home</a></li>
-			<a href="products.html" title="Products">Products</a></li>
-			<a href="services.html" title="Services">Services</a></li>
-			<a href="contact.html" title="About">About</a></li>
-			<a href="about.html" title="Contact">Contact</a></li>
-		</nav>	
-	</div>
-</nav>
-</body>
-</html>
+#header{
+	display: block;
+  	width: 100%;
+  	background-color: green;
+}
+#logo{
+	position: relative;
+	width: 300px;
+}
+nav{
+	
+	background-color: lightgrey;
+	width: 100%
+}
